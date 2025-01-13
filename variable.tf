@@ -3,11 +3,11 @@ variable "environments" {
 }
 
 variable "vpc_id" {
-  default = "vpc-008f29e1b5a4f4274"
+  default = "vpc-0d0419e4cf5ae9c42"
 }
 
 variable "subnet_id" {
-  default = "subnet-094f1f90a0ee07d00"
+  default = "subnet-0f040e05075e2d5ad"
 }
 
 variable "instance_type" {
@@ -15,7 +15,7 @@ variable "instance_type" {
 }
 
 variable "ami_id" {
-  default = "ami-0fd05997b4dff7aac" 
+  default = "ami-05576a079321f21f8" 
 }
 
 variable "bucket_prefix" {
